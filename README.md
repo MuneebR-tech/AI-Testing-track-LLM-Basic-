@@ -1,6 +1,6 @@
 # Teqfork Interns Final AI Testing Track Evaluation Framework
 
-This is a clean, robust, and interactive Python-based LLM testing and evaluation framework designed specifically to fulfill the requirements of the **Teqfork AI Testing Track**. It implements, executes, and evaluates the 7 mandatory LLM test scenarios and generates premium HTML and PDF submission-ready reports.
+It implements, executes, and evaluates the 7 mandatory LLM test scenarios and generates premium HTML and PDF submission-ready reports.
 
 ## Features
 
